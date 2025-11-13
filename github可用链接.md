@@ -10,4 +10,4 @@ https://alist.ecoo.top
 #### 网页画图工具
 https://excalidraw.com/
 #### armbian2+128G网盘
-http://armbian.v6.rocks:12/
+http://linux86.v6.rocks:12/
