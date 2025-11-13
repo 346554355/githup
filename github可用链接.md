@@ -2,3 +2,8 @@
 https://github.com/HaichengHao
 ## armbian的下载链接，在github上的
 https://github.com/ophub/
+# 盒子固件下载链接
+## 海纳斯教程
+https://www.ecoo.top/docs/nas-skill/otaupdate
+## 海纳斯下载
+https://alist.ecoo.top
