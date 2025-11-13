@@ -7,3 +7,5 @@ https://github.com/ophub/
 https://www.ecoo.top/docs/nas-skill/otaupdate
 ##### 海纳斯下载
 https://alist.ecoo.top
+#### 网页画图工具
+https://excalidraw.com/
