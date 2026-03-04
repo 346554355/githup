@@ -11,3 +11,5 @@ https://alist.ecoo.top
 https://excalidraw.com/
 #### armbian2+128G网盘
 http://linux86.v6.rocks:12/
+#### 博客园激活网站
+https://www.cnblogs.com/thesungod/articles/19055537
